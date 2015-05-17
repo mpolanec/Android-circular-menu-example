@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touched_outside">Zunaj</string>
+    <string name="touched_center">Center</string>
+    <string name="touched_index">Pravkar si pritisnil element \#</string>
+</resources>

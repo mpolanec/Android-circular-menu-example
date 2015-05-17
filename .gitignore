@@ -1,0 +1,11 @@
+bin/
+gen/
+.settings/
+.idea/
+assets/
+out/
+ant.properties
+build.xml
+Circle Menu Test App.iml
+local.properties
+proguard-project.txt

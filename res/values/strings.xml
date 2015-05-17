@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Circle Menu Test App</string>
+    <string name="touched_outside">Outside</string>
+    <string name="touched_center">Center</string>
+    <string name="touched_index">You\'ve just pressed item \#</string>
+</resources>
